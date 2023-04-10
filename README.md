@@ -7,7 +7,7 @@
 ### Hi there 👋 👻 🤖
 
 - 🦁 I am focusing on API Gateway, Service Mesh, Kubernetes Networking.
-- 🥷  I am the contributor of [Envoy Gateway](https://github.com/envoyproxy/gateway).
+- 🥷  I am the member of [Envoy Gateway](https://github.com/envoyproxy/gateway).
 - 🐲 I am the PMC of [Apache ShenYu](https://github.com/apache/shenyu).
 - 🐯 I am the Founder of [@OpeningO](https://github.com/openingo).
 - 🐻‍❄️ I am the Founder of [@AcmeStack](https://github.com/acmestack).
