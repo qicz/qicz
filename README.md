@@ -12,6 +12,8 @@
 - 🐯 I am the Founder of [@OpeningO](https://github.com/openingo).
 - 🐻‍❄️ I am the Founder of [@AcmeStack](https://github.com/acmestack).
 
+![](http://github-readme-streak-stats.herokuapp.com/?user=qicz&theme=github-light&hide_border=true)
+
 <!--
 **qicz/qicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
