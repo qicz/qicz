@@ -6,11 +6,11 @@
 
 ### Hi there 👋 👻 🤖
 
-- 🦁 I am focusing on API Gateway, Service Mesh, Kubernetes Networking.
-- 🥷  I am the member of [Envoy Gateway](https://github.com/envoyproxy/gateway).
-- 🐲 I am the PMC of [Apache ShenYu](https://github.com/apache/shenyu).
-- 🐯 I am the Founder of [@OpeningO](https://github.com/openingo).
-- 🐻‍❄️ I am the Founder of [@AcmeStack](https://github.com/acmestack).
+- 🦁 I'm focusing on API Gateway, Service Mesh, Kubernetes Networking.
+- 🥷 I'm the member of [Envoy Gateway](https://github.com/envoyproxy/gateway).
+- 🐲 I'm the PMC of [Apache ShenYu](https://github.com/apache/shenyu).
+- 🐻‍❄️ I'm the Founder of [@AcmeStack](https://github.com/acmestack).
+- 🐯 I'm the Founder of [@OpeningO](https://github.com/openingo).
 
 ![](http://github-readme-streak-stats.herokuapp.com/?user=qicz&theme=github-light&hide_border=true)
 
